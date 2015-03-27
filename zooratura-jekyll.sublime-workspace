@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"ife	if … else"
+			],
+			[
+				"polyhe",
+				"polyhedronMesh"
+			],
+			[
+				"poly",
+				"polyhedronMesh"
+			],
+			[
+				"calculate",
+				"calculateVolume"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aharlap/odrive/Dropbox/finance/budgeting_stock_quotes",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/contact.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_site/js/contact_me_static.js",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_config.yml",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/README.md",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/modals.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/index.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/css/main.css",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/nav.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/header.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_posts/2014-07-18-project-1.markdown",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/about.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/head.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/css/font-awesome/css/font-awesome.css",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_includes/portfolio_grid.html",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/mail/contact_me.php",
+		"/Users/aharlap/GitHub/activeGrids/_config.yml",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/.gitignore",
+		"/Users/aharlap/GitHub/freelancer-theme-ag/_posts/2014-07-13-project-6.markdown",
+		"/Users/aharlap/GitHub/activeGrids/404.md",
+		"/Users/aharlap/GitHub/activeGrids/about/index.md",
+		"/Users/aharlap/GitHub/activeGrids/_data/authors.yml",
+		"/Users/aharlap/GitHub/activeGrids/_layouts/page.html",
+		"/Users/aharlap/GitHub/activeGrids/tags/index.md",
+		"/Users/aharlap/GitHub/activeGrids/search/index.md",
+		"/Users/aharlap/GitHub/activeGrids/package.json",
+		"/Users/aharlap/GitHub/activeGrids/index.html",
+		"/Users/aharlap/GitHub/activeGrids/_site/404.html",
+		"/Users/aharlap/GitHub/activeGrids/_posts/articles/2011-03-10-sample-post.md",
+		"/Users/aharlap/GitHub/activeGrids/_includes/open-graph.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/scripts.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/social-share.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/head.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/footer.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/feed-footer.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/browser-upgrade.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/ad-sidebar.html",
+		"/Users/aharlap/GitHub/activeGrids/_includes/ad-footer.html",
+		"/Users/aharlap/GitHub/activeGrids/_layouts/post.html",
+		"/Users/aharlap/GitHub/activeGrids/theme-setup/index.md",
+		"/Users/aharlap/GitHub/activeGrids/Gemfile",
+		"/Users/aharlap/GitHub/activeGrids/feed.xml",
+		"/Users/aharlap/GitHub/activeGrids/_octopress.yml",
+		"/Users/aharlap/GitHub/activeGrids/blog/index.md",
+		"/Users/aharlap/GitHub/activeGrids/about.md",
+		"/Users/aharlap/GitHub/activeGrids/content/news/Active Transporation in Montreal.md",
+		"/Users/aharlap/Desktop/activegrids/pelicanconf.py",
+		"/Users/aharlap/GitHub/activeGrids/Makefile",
+		"/Users/aharlap/Desktop/activegrids/Makefile",
+		"/Users/aharlap/Dropbox/threejs/polyhedra/js/main.js",
+		"/Users/aharlap/Documents/code/three.js/examples/js/Detector.js",
+		"/Users/aharlap/Documents/code/three.js/examples/js/controls/TrackballControls.js",
+		"/Users/aharlap/Dropbox/threejs/polyhedra/index.html",
+		"/Users/aharlap/Dropbox/threejs/polyhedra/example.html",
+		"/Users/aharlap/Dropbox/threejs/polyhedra/app.html",
+		"/Users/aharlap/Documents/code/dat.gui/example.html",
+		"/Users/aharlap/Dropbox/threejs/scratch/index.html",
+		"/Users/aharlap/Dropbox/threejs/orig/testing.html",
+		"/Users/aharlap/odrive/Dropbox/threejs/scratch/index.html",
+		"/Users/aharlap/Dropbox/threejs/orig/js/three.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/polyhedra.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/dat.gui.js",
+		"/Users/aharlap/Downloads/download (1).stl",
+		"/Users/aharlap/Dropbox/threejs/orig/js/STLExporter.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/SceneExporter.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/OBJExporter.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/THREE2STL.js",
+		"/Users/aharlap/Downloads/polyhedron (6).stl",
+		"/Users/aharlap/Downloads/polyhedron (5).stl",
+		"/Users/aharlap/Downloads/polyhedron (1).stl",
+		"/Users/aharlap/Downloads/polyhedron.stl",
+		"/Users/aharlap/Downloads/pixel_printer (3).stl",
+		"/Users/aharlap/Dropbox/threejs/orig/js/main.js",
+		"/Users/aharlap/Downloads/pixel_printer (2).stl",
+		"/Users/aharlap/Downloads/0B6cpJDiEKC62Vy1xdzJUcS1nZjQ/javascript/three.min.js",
+		"/Users/aharlap/Dropbox/threejs/polyhedra.html",
+		"/Users/aharlap/Dropbox/threejs/polyhedra 2.html",
+		"/Users/aharlap/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/aharlap/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/aharlap/Dropbox/threejs/orig/js/DAT.GUI.min.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/Detector.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/functions.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/info.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/jquery-1.9.1.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/jquery-ui.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/Three58.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/THREEx.FullScreen.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/THREEx.KeyboardState.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/THREEx.WindowResize.js",
+		"/Users/aharlap/Dropbox/threejs/orig/js/TrackballControls.js",
+		"/Users/aharlap/Dropbox/threejs/orig/css/info.css",
+		"/Users/aharlap/Dropbox/threejs/orig/css/jquery-ui.css",
+		"/Users/aharlap/Dropbox/threejs/orig/css/base.css",
+		"/Users/aharlap/Downloads/mrdoob-three.js-ca14c79/src/Three.js",
+		"/Users/aharlap/Downloads/mrdoob-three.js-ca14c79/utils/exporters/maya/plug-ins/threeJsFileTranslator.py",
+		"/Users/aharlap/Downloads/mrdoob-three.js-ca14c79/utils/exporters/maya/README.md",
+		"/Users/aharlap/Dropbox/threejs/js/functions.js",
+		"/Users/aharlap/Dropbox/threejs/js/Three58.js",
+		"/Users/aharlap/Dropbox/threejs/test.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Contact",
+			"contact me",
+			"star-light",
+			"fa-star",
+			"star-primary",
+			"star",
+			"fa-",
+			"fa0",
+			"fa-",
+			"lato",
+			"btn-outline",
+			"btn-lg",
+			"btn",
+			"font-family",
+			"FONT-FAMILY",
+			"THEME",
+			"activegrids",
+			"Request",
+			"WindowResize",
+			"merge",
+			"set",
+			"GeometryUtils",
+			"merge",
+			"KeyboardState",
+			"controls.",
+			"button",
+			"download",
+			"saveSTL",
+			"STLExporter",
+			"save",
+			"controls",
+			"control",
+			"scale",
+			"scene",
+			"/n",
+			"spriteAlignment",
+			"renderer",
+			"titleSprite",
+			"remove",
+			".stl",
+			"faces",
+			"polyhedronMesh",
+			"camera",
+			"polyhedronMesh",
+			"save",
+			"startExport",
+			"titleSpriteParams",
+			"cube",
+			"calculateBoundingBox",
+			"object3d",
+			"polyhedronDataToMesh",
+			"30",
+			"camera",
+			"titleSpriteParams",
+			"make",
+			"roundRec",
+			"animate()",
+			"render",
+			"polyhedronDataToMesh",
+			"calculateVolume",
+			"bounding",
+			"makeText",
+			"icon-info",
+			".png",
+			"family",
+			"font",
+			"fontface",
+			"arial",
+			"textsprite",
+			"6666",
+			"material",
+			"shading",
+			"cylinder",
+			"STLexp",
+			"export",
+			"calculateVolume"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}
